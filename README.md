@@ -1,6 +1,5 @@
 A template for projects with the following technologies: Nuxt3, Pinia, VueUse, TailwindCSS and DaisyUI. 
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
 
